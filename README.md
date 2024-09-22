@@ -18,8 +18,9 @@
                         <li><p>[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](your-link)</p></li>
                 </ul>
                 <hr>
-                        <h3>📫 Contact...</h3>
-                        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhsantos11/)
-                        [![ProtonMail](https://img.shields.io/badge/ProtonMail-%237C4DFF.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luizhenriquegarcia6@proton.me)
         </body>
 </html>
+
+<h3>📫 Contact...</h3>
+                        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhsantos11/)
+                        [![ProtonMail](https://img.shields.io/badge/ProtonMail-%237C4DFF.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luizhenriquegarcia6@proton.me)
