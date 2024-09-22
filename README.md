@@ -9,8 +9,8 @@
 
 ### 🔧Tools:  
 
-[![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)](URL_DE_REDIRECIONAMENTO)
+[![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)](https://github.com/luizhenriquegarcia1/responsiveWebDesign_Course)
 
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)](URL_DE_REDIRECIONAMENTO)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/luizhenriquegarcia1/responsiveWebDesign_Course)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](URL_DE_REDIRECIONAMENTO)
