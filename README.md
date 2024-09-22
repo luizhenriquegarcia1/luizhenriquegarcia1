@@ -18,11 +18,8 @@
                         <li><p>[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](your-link)</p></li>
                 </ul>
                 <hr>
-                <ul>
                         <h3>📫 Contact...</h3>
-                        <li><p>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhsantos11/)</p></li>
-                        <li><a href="https://x.com/LHSG_dev"/><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AX_logo_2023.svg&psig=AOvVaw3BQXUX7LvOz9yht6U7Q9Ff&ust=1727104267987000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCZ7Prq1ogDFQAAAAAdAAAAABAJ" alt="X icon"/></li>
-                        <li><p>[![ProtonMail](https://img.shields.io/badge/ProtonMail-%237C4DFF.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luizhenriquegarcia6@proton.me)</p></li>
-              </ul>
+                        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhsantos11/)
+                        [![ProtonMail](https://img.shields.io/badge/ProtonMail-%237C4DFF.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luizhenriquegarcia6@proton.me)
         </body>
 </html>
