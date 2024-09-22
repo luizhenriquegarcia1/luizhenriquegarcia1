@@ -9,3 +9,4 @@
 
 ### 🔧Tools:  
 
+[![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)](URL_DE_REDIRECIONAMENTO)
